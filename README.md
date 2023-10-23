@@ -1,5 +1,7 @@
 # Machine Learning Models from Scratch
 
+![Machine Learning Models from Scratch](https://devtechnosys.com/insights/wp-content/uploads/2022/03/develop-a-machine-learning-model.png))
+
 This repository contains Python code for implementing three fundamental machine learning models from scratch: k-Nearest Neighbors (KNN), Linear Regression, and Logistic Regression. The primary objective of this project is to provide a hands-on approach to understand the basic mathematics and inner workings of these machine learning algorithms.
 
 ## Table of Contents
